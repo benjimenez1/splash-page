@@ -52,8 +52,8 @@ Grid
     box-sizing: border-box;
 }
 body {
-    background-color: #0d080e /*#5e5e5e*/;
-    background-image: url("img/sunset.jpeg");
+    background-color: #191f1f /*#5e5e5e*/;
+    background-image: url("img/sports-car-unsplash.jpeg");
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: top;
